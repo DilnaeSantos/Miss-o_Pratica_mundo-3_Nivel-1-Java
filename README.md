@@ -2,7 +2,7 @@
 
 ## Informações do Curso
 
-- **Curso:** Estácio Desenvolvimento Full Stack
+- **Curso:** Desenvolvimento Full Stack
 - **Universidade:** Estácio de Sá - Campus São José dos Pinhais
 - **Período:** 3º
 - **Turma:** 9001
